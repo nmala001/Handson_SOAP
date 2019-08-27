@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:insurer
+	xmlns:tns="http://www.nandithmalapati.com/Insurer"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.nandithmalapati.com/Insurer Insurer.xsd ">
+	<tns:id>1</tns:id>
+	<tns:name>Nandith</tns:name>
+	<tns:age>27</tns:age>
+	<tns:dob>2001-01-01</tns:dob>
+	<tns:email>nandith.malapati@gmail.com</tns:email>
+	<tns:gender>male</tns:gender>
+	<tns:phone>1234567890</tns:phone>
+</tns:insurer>
